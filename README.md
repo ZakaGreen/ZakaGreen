@@ -1,53 +1,56 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Ilia Liubotin — Python, C and AI. Applied Informatics student in Bratislava." width="100%" />
+  <img src="assets/header.svg" alt="Ilia Liubotin — learning algorithms, understanding memory." width="100%" />
 </p>
 
-<p align="center">
-  <a href="mailto:ilushkalubotin@gmail.com">Email</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#erasmus-internship">Erasmus+ internship</a>
-</p>
+I'm **Ilia**, an Applied Informatics student at **FEI STU in Bratislava**. I enjoy building neural networks and working through the mathematics behind them. Understanding how an algorithm learns is a big part of what draws me to AI.
 
-I'm **Ilia**, an Applied Informatics bachelor's student at **FEI, Slovak University of Technology in Bratislava**. My main interests are Python, C and artificial intelligence. I learn through university assignments, small experiments and practical development work.
+**Looking for internships and part-time IT work in Slovakia and the EU.** My strongest interest is AI/ML; I'm also interested in Python, data, automation and software development.
 
-**Open to internships and part-time IT opportunities in Slovakia and the EU**, especially software development, Python, data and automation.
+[Say hello](mailto:ilushkalubotin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ilia-liubotin-89512144b/) · [GitLab](https://gitlab.com/ilushkalubotin)
 
-### Selected work
+## What I've spent time figuring out
 
-| Project | What to explore |
-| --- | --- |
-| **[Machine learning fundamentals](https://github.com/ZakaGreen/AI_studying)** · Python | Perceptron and ADALINE learning exercises, Iris classification plots and a simple linear approximation experiment. |
-| **[Programming coursework](https://github.com/ZakaGreen/study)** · C / C++ / Java / R | Start with the [C army simulation](https://github.com/ZakaGreen/study/tree/main/C_studying/Programming_2/zadanie4), then explore object-oriented programming and statistics exercises. |
-| **[Web technologies coursework](https://github.com/ZakaGreen/webte1)** · JavaScript | A restaurant-menu viewer with HTML parsing and local caching, plus a personal website and smaller exercises. |
+### How learning algorithms work
 
-These repositories contain educational work and learning experiments. Each project README explains its scope and how to get started.
+I worked through the mathematics of the perceptron, ADALINE and linear approximation in [AI_studying](https://github.com/ZakaGreen/AI_studying). Those small experiments helped me connect the calculations with what the programs actually do.
 
-### Erasmus+ internship
+**[Genetic algorithms](https://github.com/ZakaGreen/evolutionary-algorithms) became a particular favourite.** I studied the operators, assembled algorithms for the coursework and spent a lot of time tuning the first assignments. Here is my route-search exercise in action:
 
-**Software Development Intern · Erciyes University**  
-Kayseri, Türkiye · June–August 2026
+[![My genetic algorithm improving a route across 500 generations](https://raw.githubusercontent.com/ZakaGreen/evolutionary-algorithms/main/assets/route-search.gif)](https://github.com/ZakaGreen/evolutionary-algorithms)
 
-I worked as part of a team extending **UniMetrik**, an existing university quiz and examination platform.
+<sub>One recorded run of the coursework: a population of 100, over 500 generations. The repository includes the original code and reproduction details.</sub>
 
-- Contributed to academic data management and learning-outcome features.
-- Worked on backend, API, database and frontend changes through development and testing tasks.
-- Gained practical experience with **Python, Django REST Framework, PostgreSQL, React and TypeScript**.
-- Learned to work within an existing codebase and coordinate changes with other team members.
+I have also completed PyTorch coursework with MLPs and convolutional networks, working from templates while learning the architectures and training process.
 
-This was a team project; the repository is private. My public coursework above provides examples of my learning and programming practice.
+### What pointers are actually pointing at
 
-### Currently exploring
+Pointers and structures in C took time to click. Studying how memory works helped me picture what the code was doing, and I eventually worked through the assignments myself. The [C army simulation](https://github.com/ZakaGreen/study/tree/main/C_studying/Programming_2/zadanie4) is one example of that practice.
 
-My bachelor's thesis focuses on **predicting the effect of public news and likely future events on stock returns using language models**. It is at an early research stage: the public [thesis repository](https://github.com/ZakaGreen/bakalarska-praca) currently contains the LaTeX writing setup, with experiments still to come.
+I'm also studying operating systems through **[xv6 lab work](https://github.com/ZakaGreen/xv6-labs-2026)**: processes, system calls, page tables and traps. The coursework lives on [GitLab](https://gitlab.com/ilushkalubotin/xv6-xliubotin-2026), with a copy here on GitHub.
 
-I am particularly interested in separating the probability of an event from the market reaction if it happens.
+## A summer of team development
 
-### A little activity, a little play
+**Erasmus+ · Erciyes University · Kayseri, Türkiye · June–August 2026**
+
+I worked as part of a team extending **UniMetrik**, an existing university quiz and examination platform. I contributed to academic data management and learning-outcome features through backend, API, database and frontend development and testing.
+
+That gave me practical experience with Python, Django REST Framework, PostgreSQL, React and TypeScript, and with coordinating changes in an existing codebase.
+
+## A question for my bachelor thesis
+
+**How could we estimate a stock's reaction to an event that has not happened yet?**
+
+My [thesis](https://github.com/ZakaGreen/bakalarska-praca) explores public news, likely future events and language models. I'm particularly interested in distinguishing the probability of an event from the market reaction if it happens. The work is at an early research stage.
+
+## Around the repositories
+
+- [Programming coursework](https://github.com/ZakaGreen/study): C, C++, Java OOP and statistics in R.
+- [Web technologies](https://github.com/ZakaGreen/webte1): university exercises, including a menu viewer with HTML parsing and local caching.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakaGreen/ZakaGreen/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakaGreen/ZakaGreen/output/github-snake.svg" />
-  <img alt="An animated snake eating cells from my GitHub contribution calendar" src="https://raw.githubusercontent.com/ZakaGreen/ZakaGreen/output/github-snake.svg" width="100%" />
+  <img alt="A snake making its way through my GitHub contribution calendar" src="https://raw.githubusercontent.com/ZakaGreen/ZakaGreen/output/github-snake.svg" width="100%" />
 </picture>
 
-<sub>Generated from my contribution calendar with [snk](https://github.com/Platane/snk). Updated daily.</sub>
+<sub>A small break between commits. Animation by [snk](https://github.com/Platane/snk), updated daily.</sub>
