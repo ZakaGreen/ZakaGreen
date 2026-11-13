@@ -10,7 +10,7 @@
 
 [Написать мне](mailto:ilushkalubotin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ilia-liubotin-89512144b/) · [GitLab](https://gitlab.com/ilushkalubotin)
 
-## В чём я потратил время разобраться
+## В чём мне хотелось разобраться
 
 ### Как работают обучающиеся алгоритмы
 
