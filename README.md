@@ -1,3 +1,5 @@
+[English](README.md) · [Slovenčina](README.sk.md) · [Русский](README.ru.md)
+
 <p align="center">
   <img src="assets/header.svg" alt="Ilia Liubotin — learning algorithms, understanding memory." width="100%" />
 </p>
